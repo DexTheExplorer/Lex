@@ -4,8 +4,10 @@ Lex, a private virtual assistant for Discord.
 # Installing
 Clone this repository to your host machine.
 ```git clone https://github.com/DexTheExplorer/Lex.git```
+
 Fill out the configuration.json file.
 ```nano configuration.json```
+
 Run index.js.
 ```pnpm start```or```npm start```
 
